@@ -22,6 +22,6 @@ Continue your coding journey as you dive deeper into the foundational concepts, 
 
 ------
 
-**Course** [Following along with the course (linkedin.com)]([Broadening your knowledge of programming fundamentals (linkedin.com)](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b))
+**Course** [Following along with the course (linkedin.com)](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
 
-**Certificate** [LinkedIn Learning Certificate of Completion]([LinkedIn Learning Certificate of Completion](https://www.linkedin.com/learning/certificates/d9ae977c47624b5d41e33e2a934e226a95c66659359d940236aa12706aa863c0))
+**Certificate** [LinkedIn Learning Certificate of Completion](https://www.linkedin.com/learning/certificates/d9ae977c47624b5d41e33e2a934e226a95c66659359d940236aa12706aa863c0)
